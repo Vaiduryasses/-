@@ -109,7 +109,7 @@
 ## 参考资料
 
 - 编译原理相关教材、讲义  
-- [MoYangSensei 的 LL(1) 语法分析介绍](https://moyangsensei.github.io/2019/05/20/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%EF%BC%9ALL(1)%E8%AF%AD%E6%B3%95%E5%88%86%E6%9E%90/)   
+- [MoYangSensei 的 LL(1) 语法分析介绍](https://moyangsensei.github.io/2019/05/20/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%EF%BC%9ALL(1)%E8%AF%AD%E6%B3%95%E5%88%86%E6%9E%90/)   等
 - CSDN
 ---
 
